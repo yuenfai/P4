@@ -38,4 +38,3 @@ public class Employee {
     	salary = amount;
     }
 }
-}
